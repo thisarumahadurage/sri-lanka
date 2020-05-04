@@ -3,7 +3,7 @@ Showcase your ‘Sri Lankanness’ with the Sri Lankan Flag Ribbon on your websi
 
 ![Image of Sri Lanka Border Ribbon](https://raw.githubusercontent.com/thisarumahadurage/sri-lanka-border-ribbon/master/demo/img/ribbon.png)
 
-## Usage
+## How to use
 1. Download `slbr.min.css` from `dist`
 2. Link `slbr.min.css` as a stylesheet to your HTML/PHP file <br>
 ```html 
@@ -14,3 +14,7 @@ Showcase your ‘Sri Lankanness’ with the Sri Lankan Flag Ribbon on your websi
 <div class="slbr"></div>
 ```
 
+## Usages
+
+* [GymPal](https://www.gympal.io) - Used in the footer
+* [Thisaru Mahadurage](http://www.thisaru.com) - Used in the footer
